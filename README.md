@@ -1,6 +1,6 @@
 # Heroes Sorter
 
-[![Tests](https://github.com/maxamuz/heroes-sorter/actions/workflows/tests.yml/badge.svg)](https://github.com/maxamuz/heroes-sorter/actions)
+[![Tests](https://github.com/maxamuz/health-indicator/actions/workflows/tests.yml/badge.svg)](https://github.com/maxamuz/heroes-sorter/actions)
 
 ## Описание
 
